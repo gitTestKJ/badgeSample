@@ -28,11 +28,7 @@ context.keys().map(context);
 //testNo1
 No1
 No2
-<<<<<<< HEAD
 No1-1-1234
-=======
-No1-1-2
->>>>>>> 2d07366213c5aea1741aaf9160b2acf732945959
 No3
 
 //testNo21
