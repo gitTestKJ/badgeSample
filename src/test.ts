@@ -22,10 +22,13 @@ const context = (import.meta as any).webpackContext('./', {
 // And load the modules.
 context.keys().map(context);
 
+//main
+123
+
 //testNo1
 No1
 No2
 No3
 
 //testNo21
-222 223 
+222 main222 
